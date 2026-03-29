@@ -11,36 +11,53 @@
 <br/>
 <br/>
 
-<a href="mailto:mahamahaanonoby@outlook.com">Email </a>
-<a href="tel:+8618130456721">Phone </a>
-Location
-<a href="https://github.com/AnonOby">GitHub </a>
+<a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahamahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
+<a href="tel:+8618130456721">![Phone](https://img.shields.io/badge/Phone-(%2B86)+181%2D3045%2D6721-blue?style=flat-square&logo=phone)</a>
+![Location](https://img.shields.io/badge/Location-Wuhu%2C+Anhui%2C+CN-blue?style=flat-square&logo=map-marker)
+<a href="https://github.com/AnonOby">![GitHub](https://img.shields.io/badge/GitHub-AnonOby-181717?style=flat-square&logo=github)</a>
 
 </div>
 
-🧑‍💻 About
-I'm an undergraduate at Anhui Normal University, majoring in French Language & Literature (ranked 1st in core courses) with a minor in Economics. Beyond the classroom, I'm deeply drawn to quantitative finance, risk modeling, and the craft of turning raw data into actionable insights.
+---
 
-I believe the best analytical work lives where domain expertise meets technical skill — and that's the space I'm actively building in.
+### 🧑‍💻 About
 
-🚀 What I'm Up To
-🔭 Working on credit risk analytics and open-source financial modeling projects
-📚 Preparing for ACCA and 初级会计师 certification
-🇫🇷 Awaiting DALF C2 results — French proficiency at near-native level
-📊 Exploring the intersection of Excel modeling, SQL, and Power BI for financial reporting automation
-🛠️ Tech Stack & Tools
-Domain
-Technologies
-Languages	Python · SQL · VBA · Stata · French (C2-level) · English (fluent)
-Finance & Accounting	用友 U8 · 金蝶 KIS · FRM (Part I) · IFRS 基础
-Data & Visualization	Excel (PivotTables, VLOOKUP, SUMIFS, Macros) · Power BI · Pandas
-Office & Collab	Google Workspace · 飞书 · 腾讯会议 · Zoom
+I'm an undergraduate at **Anhui Normal University**, majoring in **French Language & Literature** (ranked 1st in core courses) with a minor in **Economics**. Beyond the classroom, I'm deeply drawn to quantitative finance, risk modeling, and the craft of turning raw data into actionable insights.
 
-🏅 Highlights
-🥈 National Silver Award — "Understanding Contemporary China" National English Competition (2025, school-record-breaking)
-🏆 三好学生标兵 & College-level First-Class Scholarship
-🎓 FRM Part I certified · BEC Higher 192 · CET-6 599 · ETIC Advanced & High-end
-📊 GitHub Stats
+I believe the best analytical work lives where **domain expertise meets technical skill** — and that's the space I'm actively building in.
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 Working on credit risk analytics and open-source financial modeling projects
+- 📚 Preparing for **ACCA** and **初级会计师** certification
+- 🇫🇷 Awaiting **DALF C2** results — French proficiency at near-native level
+- 📊 Exploring the intersection of Excel modeling, SQL, and Power BI for financial reporting automation
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python · SQL · VBA · Stata · French (C2-level) · English (fluent) |
+| **Finance & Accounting** | 用友 U8 · 金蝶 KIS · FRM (Part I) · IFRS 基础 |
+| **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros) · Power BI · Pandas |
+| **Office & Collab** | Google Workspace · 飞书 · 腾讯会议 · Zoom |
+
+---
+
+### 🏅 Highlights
+
+- 🥈 **National Silver Award** — *"Understanding Contemporary China"* National English Competition (2025, school-record-breaking)
+- 🏆 **三好学生标兵** & College-level First-Class Scholarship
+- 🎓 FRM Part I certified · BEC Higher 192 · CET-6 599 · ETIC Advanced & High-end
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnonOby&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -49,8 +66,11 @@ Office & Collab	Google Workspace · 飞书 · 腾讯会议 · Zoom
 
 </div>
 
-📫 Let's Connect
-Feel free to reach out if you share interests in financial risk, data analytics, or open-source collaboration. Always happy to exchange ideas and learn from others.
+---
+
+### 📫 Let's Connect
+
+Feel free to reach out if you share interests in **financial risk**, **data analytics**, or **open-source collaboration**. Always happy to exchange ideas and learn from others.
 
 <div align="center">
 
