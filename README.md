@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Zhixiong+%7C+AnonOby" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+AnonOby" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -12,9 +12,7 @@
 <br/>
 
 <a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahamahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
-<a href="tel:+8618130456721"><img src="https://img.shields.io/badge/Phone-181%2D3045%2D6721-blue?style=flat-square" alt="Phone" /></a>
 ![Location](https://img.shields.io/badge/Location-Anhui%2C+China-blue?style=flat-square)
-<a href="https://github.com/AnonOby">![GitHub](https://img.shields.io/badge/GitHub-AnonOby-181717?style=flat-square&logo=github)</a>
 
 </div>
 
@@ -41,12 +39,11 @@ I'm drawn to quantitative finance, risk modeling, and turning raw data into acti
 
 ### 🛠️ Tech Stack & Tools
 
-| Domain | Technologies |
+| | |
 | :--- | :--- |
-| **Languages** | Python · SQL · VBA · Stata · French (C2-level) · English (fluent) |
-| **Finance & Accounting** | 用友 U8 · 金蝶 KIS (凭证录入、账务核对) · FRM (Part I) · IFRS 基础 |
-| **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros, VBA) · Power BI · Pandas |
-| **Office & Collab** | Google Workspace · 飞书 (含多维表格) · 腾讯会议 · Zoom |
+| **Languages** | Python · SQL · Stata · French · English |
+| **Finance & Accounting** | 用友 U8 · 金蝶 KIS (凭证录入、账务核对) · IFRS 基础 |
+| **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros, VBA) · Power BI |
 
 ---
 
@@ -67,9 +64,3 @@ I'm drawn to quantitative finance, risk modeling, and turning raw data into acti
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" height="170" />
 
 </div>
-
----
-
-### 📫 Let's Connect
-
-Feel free to reach out if you share interests in **financial risk**, **data analytics**, or **open-source collaboration**. Always happy to exchange ideas and learn from others.
