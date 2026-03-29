@@ -73,6 +73,3 @@ I'm drawn to quantitative finance, risk modeling, and turning raw data into acti
 ### 📫 Let's Connect
 
 Feel free to reach out if you share interests in **financial risk**, **data analytics**, or **open-source collaboration**. Always happy to exchange ideas and learn from others.
-| 飞书多维表格 | Tech Stack 改为 `飞书 (含多维表格)` |
-| 金蝶/用友描述太简 | 改为 `金蝶 KIS (凭证录入、账务核对)` |
-| DALF C2 状态 | Highlights 改为 `DALF C2 (pending)` |
