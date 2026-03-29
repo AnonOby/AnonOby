@@ -61,6 +61,3 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" height="170" />
 
 </div>
-| tagline 格式 | `***Building at the intersection...***`（斜体加粗） |
-| About 第三段 | 改为 `I'm drawn to turning raw data into actionable insights.` |
-| 新增 bullet | `💼 Actively looking for an internship in Accounting / Audit / Tax`（置顶） |
