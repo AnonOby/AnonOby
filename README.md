@@ -4,14 +4,12 @@
 
 <br/>
 <br/>
-<b>French + Economics &times; Finance &times; Data Analytics</b>
-<br/>
-<i>Building at the intersection of language, numbers, and code.</i>
+<i><b>Building at the intersection of language, numbers, and code.</b></i>
 
 <br/>
 <br/>
 
-<a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahamahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
+<a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahahahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
 ![Location](https://img.shields.io/badge/Location-Anhui%2C+China-blue?style=flat-square)
 
 </div>
@@ -24,16 +22,16 @@ I'm an undergraduate at **Anhui Normal University**, majoring in **French Langua
 
 Outside the classroom, I serve as class president and student representative, and have been involved in the university library council. These roles have sharpened my ability to organize, communicate, and get things done across teams.
 
-I'm drawn to quantitative finance, risk modeling, and turning raw data into actionable insights. I believe the best analytical work lives where **domain expertise meets technical skill** — that's the space I'm actively building in.
+I'm drawn to turning raw data into actionable insights. I believe the best analytical work lives where **domain expertise meets technical skill** — that's the space I'm actively building in.
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🔭 Working on credit risk analytics and open-source financial modeling projects
+- 💼 Actively looking for an internship in Accounting / Audit / Tax
+- 🔭 Working on risk analytics and open-source financial modeling projects
 - 📚 Preparing for **ACCA** and **初级会计师** certification
-- 🇫🇷 Awaiting **DALF C2** results — French proficiency at near-native level
-- 📊 Exploring the intersection of Excel modeling, SQL, and Power BI for financial reporting automation
+- 🍵 Awaiting DALF C2 results
 
 ---
 
@@ -42,7 +40,7 @@ I'm drawn to quantitative finance, risk modeling, and turning raw data into acti
 | | |
 | :--- | :--- |
 | **Languages** | Python · SQL · Stata · French · English |
-| **Finance & Accounting** | 用友 U8 · 金蝶 KIS (凭证录入、账务核对) · IFRS 基础 |
+| **Finance & Accounting** | 用友 U8 · 金蝶 KIS · IFRS Basics |
 | **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros, VBA) · Power BI |
 
 ---
