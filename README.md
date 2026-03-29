@@ -12,8 +12,8 @@
 <br/>
 
 <a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahamahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
-<a href="tel:+8618130456721">![Phone](https://img.shields.io/badge/Phone-(%2B86)+181%2D3045%2D6721-blue?style=flat-square&logo=phone)</a>
-![Location](https://img.shields.io/badge/Location-Wuhu%2C+Anhui%2C+CN-blue?style=flat-square&logo=map-marker)
+<a href="tel:+8618130456721"><img src="https://img.shields.io/badge/Phone-181%2D3045%2D6721-blue?style=flat-square" alt="Phone" /></a>
+![Location](https://img.shields.io/badge/Location-Wuhu%2C+Yijiang%2C+Anhui-blue?style=flat-square&logo=map-marker)
 <a href="https://github.com/AnonOby">![GitHub](https://img.shields.io/badge/GitHub-AnonOby-181717?style=flat-square&logo=github)</a>
 
 </div>
@@ -22,9 +22,11 @@
 
 ### 🧑‍💻 About
 
-I'm an undergraduate at **Anhui Normal University**, majoring in **French Language & Literature** (ranked 1st in core courses) with a minor in **Economics**. Beyond the classroom, I'm deeply drawn to quantitative finance, risk modeling, and the craft of turning raw data into actionable insights.
+I'm an undergraduate at **Anhui Normal University**, majoring in **French Language & Literature** (ranked 1st in core courses) with a minor in **Economics**. Beyond formal coursework in econometrics and finance, I've self-studied foundational accounting, calculus, linear algebra, and statistics to build a solid quantitative base — driven by curiosity, not just requirements.
 
-I believe the best analytical work lives where **domain expertise meets technical skill** — and that's the space I'm actively building in.
+Outside the classroom, I serve as class president and student representative, and have been involved in the university library council. These roles have sharpened my ability to organize, communicate, and get things done across teams.
+
+I'm drawn to quantitative finance, risk modeling, and turning raw data into actionable insights. I believe the best analytical work lives where **domain expertise meets technical skill** — that's the space I'm actively building in.
 
 ---
 
@@ -42,9 +44,9 @@ I believe the best analytical work lives where **domain expertise meets technica
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Python · SQL · VBA · Stata · French (C2-level) · English (fluent) |
-| **Finance & Accounting** | 用友 U8 · 金蝶 KIS · FRM (Part I) · IFRS 基础 |
-| **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros) · Power BI · Pandas |
-| **Office & Collab** | Google Workspace · 飞书 · 腾讯会议 · Zoom |
+| **Finance & Accounting** | 用友 U8 · 金蝶 KIS (凭证录入、账务核对) · FRM (Part I) · IFRS 基础 |
+| **Data & Visualization** | Excel (PivotTables, VLOOKUP, SUMIFS, Macros, VBA) · Power BI · Pandas |
+| **Office & Collab** | Google Workspace · 飞书 (含多维表格) · 腾讯会议 · Zoom |
 
 ---
 
@@ -52,7 +54,7 @@ I believe the best analytical work lives where **domain expertise meets technica
 
 - 🥈 **National Silver Award** — *"Understanding Contemporary China"* National English Competition (2025, school-record-breaking)
 - 🏆 **三好学生标兵** & College-level First-Class Scholarship
-- 🎓 FRM Part I certified · BEC Higher 192 · CET-6 599 · ETIC Advanced & High-end
+- 🎓 FRM Part I · BEC Higher 192 · CET-6 599 (oral proficient) · ETIC Advanced & High-end · DALF C2 (pending)
 
 ---
 
@@ -71,10 +73,6 @@ I believe the best analytical work lives where **domain expertise meets technica
 ### 📫 Let's Connect
 
 Feel free to reach out if you share interests in **financial risk**, **data analytics**, or **open-source collaboration**. Always happy to exchange ideas and learn from others.
-
-<div align="center">
-
-<a href="mailto:mahamahaanonoby@outlook.com"><img src="https://img.shields.io/badge/Email-mahamahaanonoby@outlook.com-red?style=for-the-badge&logo=microsoft-outlook" /></a>
-<a href="https://github.com/AnonOby"><img src="https://img.shields.io/badge/GitHub-AnonOby-181717?style=for-the-badge&logo=github" /></a>
-
-</div>
+| 飞书多维表格 | Tech Stack 改为 `飞书 (含多维表格)` |
+| 金蝶/用友描述太简 | 改为 `金蝶 KIS (凭证录入、账务核对)` |
+| DALF C2 状态 | Highlights 改为 `DALF C2 (pending)` |
