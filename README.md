@@ -44,14 +44,6 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 
 ---
 
-### 🏅 Highlights
-
-- 🥈 **National Silver Award** — *"Understanding Contemporary China"* National English Competition (2025, school-record-breaking)
-- 🏆 **三好学生标兵** & College-level First-Class Scholarship
-- 🎓 FRM Part I · BEC Higher 192 · CET-6 599 (oral proficient) · ETIC Advanced & High-end · DALF C2 (pending)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
