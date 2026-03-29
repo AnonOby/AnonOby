@@ -73,6 +73,3 @@ I'm drawn to quantitative finance, risk modeling, and turning raw data into acti
 ### 📫 Let's Connect
 
 Feel free to reach out if you share interests in **financial risk**, **data analytics**, or **open-source collaboration**. Always happy to exchange ideas and learn from others.
-- Location 改为 `Anhui, China`
-
-后面那段 Technical Documentation 模板看起来是误粘贴的，需要我帮你写什么技术文档的话随时说 👋
