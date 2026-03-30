@@ -35,15 +35,6 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| **Languages** | Python · SQL · Stata · French · English |
-| :--- | :--- |
-| **Finance & Accounting** | **用友 U8 · 金蝶 KIS · IFRS Basics** |
-| **Data & Visualization** | **Excel (PivotTables, VLOOKUP, SUMIFS, Macros, VBA) · Power BI** |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
