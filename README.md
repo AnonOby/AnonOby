@@ -10,7 +10,7 @@
 <br/>
 
 <a href="mailto:mahamahaanonoby@outlook.com">![Email](https://img.shields.io/badge/Email-mahahahaanonoby@outlook.com-red?style=flat-square&logo=microsoft-outlook)</a>
-![Location](https://img.shields.io/badge/Location-Anhui%2C China-blue?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Anhui%2CChina-blue?style=flat-square)
 
 </div>
 
