@@ -39,8 +39,8 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 
 <div align="center">
 
-<img src="https://github-readme-stats.rhoi.co/api?username=AnonOby&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://gh-readme-stats.vercel.app/api?username=AnonOby&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" height="170" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=true&hide_title=true" alt="Top Languages" height="170" />
 
 </div>
