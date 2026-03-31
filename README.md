@@ -39,7 +39,8 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 
 <div align="center">
 
-<img src="https://gh-readme-stats.vercel.app/api?username=AnonOby&show_icons=true&hide_border=false&border_radius=12&title_color=00e0ff&icon_color=f97316&text_color=cbd5e6&bg_color=0a0c10,1e1a3a&border_color=3b3b5c&line_height=28&hide_title=false&count_private=true" height="170" />
+<img src="https://gh-readme-stats.vercel.app/api?username=AnonOby&show_icons=true&hide_border=false&border_radius=8&title_color=0aff0a&icon_color=ff44cc&text_color=e0e0e0&bg_color=0b0b0f&border_color=2a2a3a&line_height=28&count_private=true" height="170" />
 
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=false&border_radius=12&title_color=00e0ff&text_color=cbd5e6&bg_color=0a0c10,1e1a3a&border_color=3b3b5c&langs_count=8" height="170" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&hide_border=false&border_radius=8&title_color=0aff0a&text_color=e0e0e0&bg_color=0b0b0f&border_color=2a2a3a&langs_count=8" height="170" />
+
 </div>
