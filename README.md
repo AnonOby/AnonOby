@@ -41,6 +41,6 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 
 <img src="https://gh-readme-stats.vercel.app/api?username=AnonOby&show_icons=true&theme=dark&hide_border=false&border_radius=12&title_color=00e0ff&icon_color=f97316&line_height=28&count_private=true" height="170" />
 
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&theme=dark&hide_border=false&border_radius=12&title_color=00e0ff&langs_count=8" height="170" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AnonOby&layout=compact&theme=dark&hide_border=false&border_radius=12&title_color=00e0ff&langs_count=6" height="170" />
 
 </div>
