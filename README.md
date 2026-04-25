@@ -31,7 +31,7 @@ I'm drawn to turning raw data into actionable insights. I believe the best analy
 - 💼 Actively looking for an internship in Accounting / Audit / Tax
 - 🔭 Working on risk analytics and open-source financial modeling projects
 - 📚 Preparing for **ACCA** and **初级会计师** certification
-- 🍵 Awaiting DALF C2 results
+- 🍵 Preparing for **DALF C1** certification
 
 ---
 
